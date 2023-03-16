@@ -24,7 +24,8 @@ PLacez-vous sur votre branch (ça nous permet de travailler chacun de son coté)
 ```
 git checkout "tonPrénom"
 ```
-Vérifiez que vous êtes bien sur la branche  
+Vérifiez que vous êtes bien sur la branche
+![](piraide1.jpeg)
 
 Vous êtes près a commencer!
 
