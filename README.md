@@ -1,6 +1,10 @@
 # Aide
 
-### Prérequis
+##1ère méthode
+
+A utiliser avec son pc perso.
+
+## Prérequis
 
 git : https://git-scm.com/downloads
 
@@ -37,6 +41,8 @@ Vous êtes pret à commencer :blush:
 ## Rendre le travail
 - Dans l'ordre : 
 ```
+
+
 git add .
 git commit -m "ce que vous avez ajouté en plus"
 git push -u origin "tonPrénomAvecUneMajuscule"
@@ -48,3 +54,8 @@ Ouvrez un git bash dans le dossier de travail puis taper la commande
 git pull
 ```
 Elle va ajouter mettre à jour votre dossier local avec le projet sur github.
+
+##2ère méthode (moins sexy)
+
+A utiliser sur les pc de l'INSA.
+
