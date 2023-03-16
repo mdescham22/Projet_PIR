@@ -1,6 +1,6 @@
 # Aide
 
-##1ère méthode
+## 1ère méthode
 
 A utiliser avec son pc perso.
 
@@ -55,7 +55,8 @@ git pull
 ```
 Elle va ajouter mettre à jour votre dossier local avec le projet sur github.
 
-##2ère méthode (moins sexy)
+## 2ère méthode (moins sexy)
 
 A utiliser sur les pc de l'INSA.
 
+![](PIR2.gif)
