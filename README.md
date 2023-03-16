@@ -14,7 +14,7 @@ Ce dossier est une copie du dossier de la branch master.
 
 C'est un dossier de travail local! **il est à conserver sur votre pc**.
 
-- Placez-vous dans le dossier projet puis créé un nouveau fichier git Bash
+- Placez-vous dans le dossier projet puis créez un nouveau fichier git Bash
 
 ![](PIR1.gif)
 
@@ -22,15 +22,17 @@ C'est un dossier de travail local! **il est à conserver sur votre pc**.
 ```
 git branch -a
 ```
-- PLacez-vous sur votre branch (ça nous permet de travailler chacun de son coté):
+- PLacez-vous sur votre branch :
 ```
 git checkout "tonPrénomAvecUneMajuscule"
 ```
-- Vérifier que vous êtes bien sur la branche
+Ca nous permet de travailler chacun de son côté
+
+- Vérifier que vous êtes bien sur la branche :
 
 ![](piraide1.PNG)
 
-Vous êtes près a commencer :blush:
+Vous êtes pret à commencer :blush:
 
 ## Rendre le travail
 - Dans l'ordre : 
