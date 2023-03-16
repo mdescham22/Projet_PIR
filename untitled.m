@@ -49,3 +49,4 @@ ylabel("|P1(f)|")
 
 %plot(y)
 %p=polyfit(x,y,n);
+%petit ajout
